@@ -31,7 +31,7 @@ const TabPanel = styled.div<{ background: string }>`
 
 function Home() {
   React.useEffect(() => {
-    document.title = 'Tabs with chasing underline'
+    document.title = 'Tabs with chasing underline - @reyronald'
   }, [])
 
   return (
